@@ -1,8 +1,8 @@
 -<div style="display:flex;justify-content:center"> <h1> Hi, I’m Reza Rafiei </h1></div>
 - 👀 I am currently working as a PHP and JAVASCRIPT specialist.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Nodejs ans React.
+- 💞️ I’m looking to collaborate on Nodejs projects.
+- 📫 You can reach me in Email :
 - <a href="mailto:reza.raf20@yahoo.com">reza.raf20@yahoo.com</a>
 
 
